@@ -12,13 +12,13 @@ Ce site regroupe :
 
 ## 📘 Labs
 
-👉 [Voir les labs](labs/)
+👉 [Voir les labs](./labs/)
 
 ---
 
 ## 🚀 Projet final DE1
 
-👉 [Projet DE1 — Lakehouse PySpark](projects/de1-final-project)
+👉 [Projet DE1 — Lakehouse PySpark](./projects/)
 
 ---
 
