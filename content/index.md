@@ -1,6 +1,3 @@
----
-title: Accueil
----
 
 # Youssef Jmal et Sofyan Guillermet-Laouad — Rendus & Projets
 
