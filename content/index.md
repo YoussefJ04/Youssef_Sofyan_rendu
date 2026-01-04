@@ -1,7 +1,7 @@
 
 # Youssef Jmal et Sofyan Guillermet-Laouad — Rendus & Projets
 
-Bienvenue sur mon site de rendu académique.
+Bienvenue sur notre site de rendu académique.
 
 Ce site regroupe :
 - nos **labs de Data Engineering**
