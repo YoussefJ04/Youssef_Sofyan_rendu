@@ -2,7 +2,7 @@
 title: Accueil
 ---
 
-# Youssef Jmal — Rendus & Projets
+# Youssef Jmal et Sofyan Guillermet-Laouad — Rendus & Projets
 
 Bienvenue sur mon site de rendu académique.
 
