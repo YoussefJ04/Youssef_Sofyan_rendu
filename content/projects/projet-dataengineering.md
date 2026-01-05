@@ -1,10 +1,12 @@
+> Authorship: Youssef Jmal, Sofyan Guillermet-Laouad
+
 ---
 title: DE1 Project
 ---
 
 ## Liens GitHub
 
-- Repo : https://github.com/YoussefJ04/de1_project_Youssef_Sofyan/tree/main/project
+- Repo : https://github.com/YoussefJ04/de1_project_Youssef_Sofyan/tree/main
 
 ## Résumé (2–3 lignes)
 

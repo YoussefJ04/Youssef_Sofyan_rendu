@@ -1,3 +1,5 @@
+> Authorship: Youssef Jmal, Sofyan Guillermet-Laouad
+
 ---
 title: Lab 1
 ---
